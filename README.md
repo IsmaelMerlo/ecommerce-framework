@@ -1,5 +1,5 @@
 # Ecommerce Framework
-Este framework construido en PHP, Laravel 12 y VueJS proporciona un conjunto de herramientas ya preparadas para pequeños negocios.
+Este framework construido en PHP, Laravel 12, VueJS y MySQL proporciona un conjunto de herramientas ya preparadas para pequeños negocios.
 
 <img width="1056" height="526" alt="front_panel" src="https://github.com/user-attachments/assets/eb227220-cb40-4d0a-8611-4e9a7d25ef59" />
 
